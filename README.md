@@ -1,4 +1,4 @@
-<div align="center" style="font-weight: bold; font-size:24px"><b>RNet</b></div>
+### Official RNet
 
 <div align="center">
 
@@ -6,8 +6,6 @@
 ![fornaxai - RNet](https://img.shields.io/static/v1?label=mustafaugurbaskin&message=RNet&color=blue&logo=github)
 
 </div>
-
-<div align="center">
 
 ### ℹ️ Introduction
 
@@ -18,8 +16,6 @@ https://user-images.githubusercontent.com/28260462/198580417-3702aab0-9aab-4743-
 
 ### Example image of RNet's predictions on road lanes
 ![Image of RNet's predictions](https://github.com/FornaxAI/RNet/blob/main/imgs/RNet%20Predictions.jpg)
-
-</div>
 
 ### Publishing RNet online
 - As the developer of RNet, I decided to share RNet's codes and RNet's dataset (191,070 train images and 191,070 validation images) under the Apache 2.0 license in order to contribute to artificial intelligence research and to help developers develop autonomous driving software for vehicles.
