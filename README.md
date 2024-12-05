@@ -37,13 +37,14 @@ Interested in development of RNet? Communicate directly with me on my LinkedIn a
 
 ### 🎯 Planned new features
 
-- Creating a GUI to show predictions around the car.
+- Creating a GUI to show predictions around the vehicle.
 - Training RNet with more data.
-- Working with companies interested in self-driving, lane assisting and autonomous delivery vehicle manufacturers.
 
 ## Installation
 
-To use RNet, simply download this repository and extract the folders in the same directory.
+To use RNet, download this repository and extract the folders in the same directory.
+Download `data/train` and `data/val` dataset from [Google Drive](https://www.linkedin.com/company/fornaxai). Extract them to given folders.
+Also download the model `checkpoint.pth` from [this link](https://www.linkedin.com/company/fornaxai) and extract it to `model/` folder directly. 
 
 ### Testing RNet on custom videos or images
 
