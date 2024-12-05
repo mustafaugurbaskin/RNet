@@ -42,9 +42,9 @@ Interested in development of RNet? Communicate directly with me on my LinkedIn a
 
 ## Installation
 
-To use RNet, download this repository and extract the folders in the same directory.
-Download `data/train` and `data/val` dataset from [Google Drive](https://www.linkedin.com/company/fornaxai). Extract them to given folders.
-Also download the model `checkpoint.pth` from [this link](https://www.linkedin.com/company/fornaxai) and extract it to `model/` folder directly. 
+- To use RNet, download this repository and extract the folders in the same directory.
+- Download `data/train` and `data/val` dataset from [Google Drive](https://drive.google.com/drive/folders/1DEtKy2q1ArKDqaLHOXcDDvvYs9TCisXm?usp=sharing). Extract them to given folders.
+- Also download the model `checkpoint.pth` from [this link](https://drive.google.com/file/d/1loZElL-qv8-b5yp5WNLNyJuVhfDE3_Vy/view?usp=sharing) and extract it to `model/` folder directly. 
 
 ### Testing RNet on custom videos or images
 
